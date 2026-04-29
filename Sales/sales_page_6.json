@@ -4,7 +4,7 @@
     "pageSize": 100,
     "totalRecords": 1000,
     "totalPages": 10,
-    "nextPage": "https://raw.githubusercontent.com/SreeLekshmi00/RetailSales/main/sales_pages/sales_page_7.json"
+    "nextPage": "https://raw.githubusercontent.com/SreeLekshmi00/RetailSales/main/Sales/sales_page_7.json"
   },
   "data": [
     {
